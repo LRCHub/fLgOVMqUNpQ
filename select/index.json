@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "タイムマシン - Time Machine",
+  "base_artist": "Yuuri",
+  "createdAt": "2026-03-10T09:30:20.229539Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "タイムマシン",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/01_タイムマシン_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "タイムマシン",
+      "artist": "1640mP feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/02_タイムマシン_1640mP_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "タイムマシン",
+      "artist": "Aqua Timez",
+      "has_synced": false,
+      "path": "select/03_タイムマシン_Aqua_Timez.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "タイムマシン",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/04_タイムマシン_優里.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "タイムマシン",
+      "artist": "A9",
+      "has_synced": false,
+      "path": "select/05_タイムマシン_A9.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "タイムマシン",
+      "artist": "Leo/need feat. 星乃一歌&天馬咲希&初音ミク",
+      "has_synced": true,
+      "path": "select/06_タイムマシン_Leo_need_feat._星乃一歌&天馬咲希&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "タイムマシン",
+      "artist": "フジファブリック",
+      "has_synced": true,
+      "path": "select/07_タイムマシン_フジファブリック.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "タイムマシン",
+      "artist": "40mP, 164",
+      "has_synced": true,
+      "path": "select/08_タイムマシン_40mP,_164.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "タイムマシン",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/09_タイムマシン_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "タイムマシン",
+      "artist": "Big sloth",
+      "has_synced": true,
+      "path": "select/10_タイムマシン_Big_sloth.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "タイムマシン",
+      "artist": "1640mP（164 × 40mP） feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/11_タイムマシン_1640mP(164_×_40mP)_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "タイムマシン",
+      "artist": "1640mP（164 × 40mP）",
+      "has_synced": false,
+      "path": "select/12_タイムマシン_1640mP(164_×_40mP).txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "タイムマシン",
+      "artist": "1640mP（164 × 40mP） feat. Hatsune, Miku",
+      "has_synced": false,
+      "path": "select/13_タイムマシン_1640mP(164_×_40mP)_feat._Hatsune,_Miku.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "タイムマシン",
+      "artist": "1640mP",
+      "has_synced": true,
+      "path": "select/14_タイムマシン_1640mP.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "タイムマシン (feat. 星乃一歌&天馬咲希&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/15_タイムマシン_(feat._星乃一歌&天馬咲希&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "待夢磨心 -タイムマシン-",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/16_待夢磨心_-タイムマシン-_コブクロ.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "タイムマシン feat.GUMI",
+      "artist": "164",
+      "has_synced": true,
+      "path": "select/17_タイムマシン_feat.GUMI_164.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "タイムマシン",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_01_タイムマシン_優里.txt"
+    }
+  ]
+}
